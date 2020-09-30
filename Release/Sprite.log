@@ -1,0 +1,8 @@
+﻿  Sprite.cpp
+E:\POIT\5 семестр\ОСИСП\Labs\1\Sprite\Sprite.cpp(97,11): warning C4101: 'dwSize': unreferenced local variable
+  Generating code
+  5 of 9 functions (55.6%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Sprite.vcxproj -> E:\POIT\5 семестр\ОСИСП\Labs\1\Sprite\Release\Sprite.exe
